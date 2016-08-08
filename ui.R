@@ -7,9 +7,8 @@
 #    http://shiny.rstudio.com/
 #
 
+library(shiny)
 library(plotly)
-library(ggplot2)
-library(dplyr)
 
 shinyUI(fluidPage(
   titlePanel("Checkpoint 3 - #MeLevaParlamentar"),
